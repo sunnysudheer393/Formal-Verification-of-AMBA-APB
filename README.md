@@ -61,4 +61,4 @@ Formal verification checks *all legal input combinations* and signal interaction
 cd Formal-Verification-of-AMBA-APB
 
 # Launch JasperGold with the provided TCL script
-jg -f apb-formal.tcl
+jg -f apb_formal.tcl
